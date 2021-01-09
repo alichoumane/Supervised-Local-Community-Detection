@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: programs.MainAlgorithm
+Class-Path: lib/javaml-0.1.7/ajt-2.9.jar lib/javaml-0.1.7/commons-math-1.2.jar lib/javaml-0.1.7/Jama-1.0.2.jar lib/javaml-0.1.7/libsvm.jar lib/javaml-0.1.7/weka.jar
+
