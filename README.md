@@ -1,6 +1,8 @@
 # Supervised-Local-Community-Detection
 
 This program implements the algorithm "Supervised local community detection algorithm".
+
+
 Article: Choumane, A. and Al-Akhrass, A. (2021) "Supervised local community detection algorithm", Int. J. Data Science (to appear).
 
 #############
