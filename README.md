@@ -5,6 +5,10 @@ This program implements the algorithm "Supervised local community detection algo
 
 Article: Choumane, A. and Al-Akhrass, A. (2021) "Supervised local community detection algorithm", Int. J. Data Science (to appear).
 
+
+IMPORTANT NOTE: the file NeuralNetwork.7z should be uncompressed using your favorite software. It contains the Neural Network Model NeuralNetwork.model (binary file).
+
+
 #############
 Compile
 #############
