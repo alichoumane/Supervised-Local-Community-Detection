@@ -14,11 +14,14 @@ Run
 #############
 
 The minimum command to run the algorithm is:
+
 java -jar LocalCommunity.jar -f network.dat -m NeuralNetwork.model -r 1.0
 
 where:
 	network.dat is an undirected, unweighted network, one edge per line.
+	
 	NeuralNetwork.model is a binary file containing the pre-trained Neural Network classifier (cf. the article for more details).
+	
 	1.0 is the default value to assign to the resolution parameter. Lower than 1.0 to get smaller communities and higher than 1.0 to get bigger ones.
 
 
