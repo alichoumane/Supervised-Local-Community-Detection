@@ -3,7 +3,7 @@
 This program implements the algorithm "Supervised local community detection algorithm".
 
 
-Article: Choumane, A. and Al-Akhrass, A. (2021) "Supervised local community detection algorithm", Int. J. Data Science (to appear).
+Article: Choumane, A. and Al-Akhrass, A. (2020) "Supervised local community detection algorithm", Int. J. Data Science, Vol. 5, No. 3, pp.247–261.
 
 
 
